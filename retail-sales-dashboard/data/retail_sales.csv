@@ -1,0 +1,81 @@
+Order_ID,Date,Product,Category,Region,Quantity,Unit_Price,Discount,Payment_Method
+ORD0001,2025-01-05,Pen Pack,Stationery,East,2,99,0.05,Card
+ORD0002,2025-01-09,Bluetooth Speaker,Electronics,West,3,1499,0.1,Cash
+ORD0003,2025-01-13,Backpack,Lifestyle,South,4,999,0.15,Net Banking
+ORD0004,2025-01-17,Desk Organizer,Stationery,North,5,399,0,UPI
+ORD0005,2025-01-21,USB-C Cable,Electronics,East,1,249,0.05,Card
+ORD0006,2025-01-25,Water Bottle,Lifestyle,West,2,299,0.1,Cash
+ORD0007,2025-01-29,Notebook Set,Stationery,South,3,149,0.15,Net Banking
+ORD0008,2025-02-02,Wireless Mouse,Electronics,North,4,599,0,UPI
+ORD0009,2025-02-06,Pen Pack,Stationery,East,5,99,0.05,Card
+ORD0010,2025-02-10,Bluetooth Speaker,Electronics,West,1,1499,0.1,Cash
+ORD0011,2025-02-14,Backpack,Lifestyle,South,2,999,0.15,Net Banking
+ORD0012,2025-02-18,Desk Organizer,Stationery,North,3,399,0,UPI
+ORD0013,2025-02-22,USB-C Cable,Electronics,East,4,249,0.05,Card
+ORD0014,2025-02-26,Water Bottle,Lifestyle,West,5,299,0.1,Cash
+ORD0015,2025-03-02,Notebook Set,Stationery,South,1,149,0.15,Net Banking
+ORD0016,2025-03-06,Wireless Mouse,Electronics,North,2,599,0,UPI
+ORD0017,2025-03-10,Pen Pack,Stationery,East,3,99,0.05,Card
+ORD0018,2025-03-14,Bluetooth Speaker,Electronics,West,4,1499,0.1,Cash
+ORD0019,2025-03-18,Backpack,Lifestyle,South,5,999,0.15,Net Banking
+ORD0020,2025-03-22,Desk Organizer,Stationery,North,1,399,0,UPI
+ORD0021,2025-03-26,USB-C Cable,Electronics,East,2,249,0.05,Card
+ORD0022,2025-03-30,Water Bottle,Lifestyle,West,3,299,0.1,Cash
+ORD0023,2025-04-03,Notebook Set,Stationery,South,4,149,0.15,Net Banking
+ORD0024,2025-04-07,Wireless Mouse,Electronics,North,5,599,0,UPI
+ORD0025,2025-04-11,Pen Pack,Stationery,East,1,99,0.05,Card
+ORD0026,2025-04-15,Bluetooth Speaker,Electronics,West,2,1499,0.1,Cash
+ORD0027,2025-04-19,Backpack,Lifestyle,South,3,999,0.15,Net Banking
+ORD0028,2025-04-23,Desk Organizer,Stationery,North,4,399,0,UPI
+ORD0029,2025-04-27,USB-C Cable,Electronics,East,5,249,0.05,Card
+ORD0030,2025-05-01,Water Bottle,Lifestyle,West,1,299,0.1,Cash
+ORD0031,2025-05-05,Notebook Set,Stationery,South,2,149,0.15,Net Banking
+ORD0032,2025-05-09,Wireless Mouse,Electronics,North,3,599,0,UPI
+ORD0033,2025-05-13,Pen Pack,Stationery,East,4,99,0.05,Card
+ORD0034,2025-05-17,Bluetooth Speaker,Electronics,West,5,1499,0.1,Cash
+ORD0035,2025-05-21,Backpack,Lifestyle,South,1,999,0.15,Net Banking
+ORD0036,2025-05-25,Desk Organizer,Stationery,North,2,399,0,UPI
+ORD0037,2025-05-29,USB-C Cable,Electronics,East,3,249,0.05,Card
+ORD0038,2025-06-02,Water Bottle,Lifestyle,West,4,299,0.1,Cash
+ORD0039,2025-06-06,Notebook Set,Stationery,South,5,149,0.15,Net Banking
+ORD0040,2025-06-10,Wireless Mouse,Electronics,North,1,599,0,UPI
+ORD0041,2025-06-14,Pen Pack,Stationery,East,2,99,0.05,Card
+ORD0042,2025-06-18,Bluetooth Speaker,Electronics,West,3,1499,0.1,Cash
+ORD0043,2025-06-22,Backpack,Lifestyle,South,4,999,0.15,Net Banking
+ORD0044,2025-06-26,Desk Organizer,Stationery,North,5,399,0,UPI
+ORD0045,2025-06-30,USB-C Cable,Electronics,East,1,249,0.05,Card
+ORD0046,2025-07-04,Water Bottle,Lifestyle,West,2,299,0.1,Cash
+ORD0047,2025-07-08,Notebook Set,Stationery,South,3,149,0.15,Net Banking
+ORD0048,2025-07-12,Wireless Mouse,Electronics,North,4,599,0,UPI
+ORD0049,2025-07-16,Pen Pack,Stationery,East,5,99,0.05,Card
+ORD0050,2025-07-20,Bluetooth Speaker,Electronics,West,1,1499,0.1,Cash
+ORD0051,2025-07-24,Backpack,Lifestyle,South,2,999,0.15,Net Banking
+ORD0052,2025-07-28,Desk Organizer,Stationery,North,3,399,0,UPI
+ORD0053,2025-08-01,USB-C Cable,Electronics,East,4,249,0.05,Card
+ORD0054,2025-08-05,Water Bottle,Lifestyle,West,5,299,0.1,Cash
+ORD0055,2025-08-09,Notebook Set,Stationery,South,1,149,0.15,Net Banking
+ORD0056,2025-08-13,Wireless Mouse,Electronics,North,2,599,0,UPI
+ORD0057,2025-08-17,Pen Pack,Stationery,East,3,99,0.05,Card
+ORD0058,2025-08-21,Bluetooth Speaker,Electronics,West,4,1499,0.1,Cash
+ORD0059,2025-08-25,Backpack,Lifestyle,South,5,999,0.15,Net Banking
+ORD0060,2025-08-29,Desk Organizer,Stationery,North,1,399,0,UPI
+ORD0061,2025-09-02,USB-C Cable,Electronics,East,2,249,0.05,Card
+ORD0062,2025-09-06,Water Bottle,Lifestyle,West,3,299,0.1,Cash
+ORD0063,2025-09-10,Notebook Set,Stationery,South,4,149,0.15,Net Banking
+ORD0064,2025-09-14,Wireless Mouse,Electronics,North,5,599,0,UPI
+ORD0065,2025-09-18,Pen Pack,Stationery,East,1,99,0.05,Card
+ORD0066,2025-09-22,Bluetooth Speaker,Electronics,West,2,1499,0.1,Cash
+ORD0067,2025-09-26,Backpack,Lifestyle,South,3,999,0.15,Net Banking
+ORD0068,2025-09-30,Desk Organizer,Stationery,North,4,399,0,UPI
+ORD0069,2025-10-04,USB-C Cable,Electronics,East,5,249,0.05,Card
+ORD0070,2025-10-08,Water Bottle,Lifestyle,West,1,299,0.1,Cash
+ORD0071,2025-10-12,Notebook Set,Stationery,South,2,149,0.15,Net Banking
+ORD0072,2025-10-16,Wireless Mouse,Electronics,North,3,599,0,UPI
+ORD0073,2025-10-20,Pen Pack,Stationery,East,4,99,0.05,Card
+ORD0074,2025-10-24,Bluetooth Speaker,Electronics,West,5,1499,0.1,Cash
+ORD0075,2025-10-28,Backpack,Lifestyle,South,1,999,0.15,Net Banking
+ORD0076,2025-11-01,Desk Organizer,Stationery,North,2,399,0,UPI
+ORD0077,2025-11-05,USB-C Cable,Electronics,East,3,249,0.05,Card
+ORD0078,2025-11-09,Water Bottle,Lifestyle,West,4,299,0.1,Cash
+ORD0079,2025-11-13,Notebook Set,Stationery,South,5,149,0.15,Net Banking
+ORD0080,2025-11-17,Wireless Mouse,Electronics,North,1,599,0,UPI
